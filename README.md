@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **zidhaanb@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dflO0msJqK10eJYF8cVS1cUtHJ6R5uJC/view](https://drive.google.com/file/d/1dflO0msJqK10eJYF8cVS1cUtHJ6R5uJC/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Ibz_a-Hqn5g4WZTzPwzzroZ9JREbIyiM/view](https://drive.google.com/file/d/1Ibz_a-Hqn5g4WZTzPwzzroZ9JREbIyiM/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
