@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zidhaanfa" alt="zidhaanfa" /></a> </p>
 
-- 🔭 I’m currently working on [Tristar Surya Gemilang](https://www.tsgitdev.com/)
+- 🔭 I’m currently working on [Varnion Technology Semesta](https://www.varnion.com/)
 
 - 🌱 I’m currently learning **Flutter, AdonisJS**
 
-- 👨‍💻 All of my projects are available at [zidanfath.com](portfolio.zidanfath.com)
+- 👨‍💻 All of my projects are available at [zidanfath.com](zidanfath.com)
 
-- 📝 I regularly write articles on [zidanfath.com](portfolio.zidanfath.com)
+- 📝 I regularly write articles on [zidanfath.com](zidanfath.com)
 
 - 💬 Ask me about **Flutter**
 
