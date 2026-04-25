@@ -1,47 +1,172 @@
-<h1 align="center">Hi 👋, I'm Zidanfath</h1>
-<h3 align="center">A passionate Mobile Developer from Indonesia</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zidhaanfa&label=Profile%20views&color=0e75b6&style=flat" alt="zidhaanfa" /> </p>
+```
+ ______     __     _____     ______     __   __     ______   ______     ______   __  __    
+/\___  \   /\ \   /\  __-.  /\  __ \   /\ "-.\ \   /\  ___\ /\  __ \   /\__  _\ /\ \_\ \   
+\/_/  /__  \ \ \  \ \ \/\ \ \ \  __ \  \ \ \-.  \  \ \  __\ \ \  __ \  \/_/\ \/ \ \  __ \  
+  /\_____\  \ \_\  \ \____-  \ \_\ \_\  \ \_\\"\_\  \ \_\    \ \_\ \_\    \ \_\  \ \_\ \_\ 
+  \/_____/   \/_/   \/____/   \/_/\/_/   \/_/ \/_/   \/_/     \/_/\/_/     \/_/   \/_/\/_/ 
+```
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zidhaanfa" alt="zidhaanfa" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Mobile+Engineer+%F0%9F%93%B1;Flutter+Enthusiast+%F0%9F%9A%80;Full-Stack+Developer+%F0%9F%94%A5;Building+cool+stuff+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
 
-- 🔭 I’m currently working on [PT Varnion Technology Semesta](https://www.varnion.com)
+<br/>
 
-- 🌱 I’m currently learning **Flutter, Strapi, AdonisJS, NextJS**
+[![Profile Views](https://komarev.com/ghpvc/?username=zidhaanfa&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/zidhaanfa)
+[![GitHub followers](https://img.shields.io/github/followers/zidhaanfa?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/zidhaanfa)
 
-- 👯 I’m looking to collaborate on [Freelance Project](https://zidanfath.com)
+</div>
 
-- 👨‍💻 All of my projects are available at [https://zidanfath.com](https://zidanfath.com)
+---
 
-- 📝 I regularly write articles on [https://recehkoding.com/blogs](https://recehkoding.com/blogs)
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- 💬 Ask me about **Flutter**
+## `$ whoami`
 
-- 📫 How to reach me **zidan@zidanfath.com**
+```yaml
+name: Zidan Fathurrahman
+alias: zidanfath
+location: Indonesia 🇮🇩
+role: Mobile Engineer @ PT Varnion Technology Semesta
+mission: Building impactful apps one commit at a time
+```
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1Ov586rs1hMMKIv9biaLubRT3ASB8ADiM?usp=sharing](https://drive.google.com/drive/folders/1Ov586rs1hMMKIv9biaLubRT3ASB8ADiM?usp=sharing)
+## `$ cat interests.txt`
 
-- ⚡ Fun fact **Serious in coding, funny in code comments! 😄**
+```bash
+> 📱 Flutter & Dart — my main weapon
+> 🌐 Full-Stack (Node.js, Strapi, AdonisJS, NextJS)
+> 🎨 UI/UX with Figma
+> ☁️  Cloud: Firebase & GCP
+> 🐳 DevOps: Docker & Kubernetes
+> 🤝 Open to freelance collab → zidanfath.com
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/zidanfath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zidanfath" height="30" width="40" /></a>
-<a href="https://twitter.com/zidanfath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zidanfath" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zidanfath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zidanfath" height="30" width="40" /></a>
-<a href="https://fb.com/zidanfath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zidanfath" height="30" width="40" /></a>
-<a href="https://instagram.com/idhaaaaan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="idhaaaaan_" height="30" width="40" /></a>
-<a href="https://medium.com/@zidanfath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zidanfath" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/zidanfath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zidanfath" height="30" width="40" /></a>
-</p>
+<br clear="right"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/zidanfath"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zidanfath" /></a></p><br><br>
+## `$ cat tech-stack.json`
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zidhaanfa&show_icons=true&locale=en&layout=compact" alt="zidhaanfa" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zidhaanfa&show_icons=true&locale=en" alt="zidhaanfa" /></p>
+### 📱 Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zidhaanfa&" alt="zidhaanfa" /></p>
+### 🌐 Frontend & Backend
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+</div>
+
+---
+
+## `$ git log --stats`
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zidhaanfa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidhaanfa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zidhaanfa&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zidhaanfa&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophies"/>
+</div>
+
+---
+
+## `$ cat contribution-graph.svg`
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zidhaanfa&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+---
+
+## `$ curl -s links.zidanfath.com`
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-zidanfath.com-00d9ff?style=for-the-badge&logoColor=white)](https://zidanfath.com)
+[![Blog](https://img.shields.io/badge/✍️_Blog-recehkoding.com-ff6b6b?style=for-the-badge)](https://recehkoding.com/blogs)
+[![Email](https://img.shields.io/badge/📧_Email-zidan@zidanfath.com-00d9ff?style=for-the-badge)](mailto:zidan@zidanfath.com)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zidanfath)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zidanfath)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/zidanfath)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zidanfath)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/zidanfath)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/idhaaaaan_)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/zidanfath)
+
+</div>
+
+---
+
+## `$ cat fun-fact.sh`
+
+```bash
+#!/bin/bash
+echo "⚡ Fun fact: Serious in coding, funny in code comments! 😄"
+echo "💬 Ask me anything about Flutter — I don't bite"
+echo "☕ Powered by coffee and ctrl+z"
+echo ""
+echo "# Current vibe:"
+echo "while alive; do"
+echo "  eat(); sleep(); code(); repeat();"
+echo "done"
+```
+
+---
+
+<div align="center">
+
+### Support my work ☕
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/zidanfath)
+
+<br/>
+
+```
+// Thanks for visiting! Star a repo if you like what you see 🌟
+```
+
+![Snake animation](https://github.com/zidhaanfa/zidhaanfa/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
