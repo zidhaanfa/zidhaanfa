@@ -24,8 +24,7 @@
 ## `$ whoami`
 
 ```yaml
-name: Zidan Fathurrahman
-alias: zidanfath
+name: Zidanfath
 location: Indonesia 🇮🇩
 role: Mobile Engineer @ PT Varnion Technology Semesta
 mission: Building impactful apps one commit at a time
