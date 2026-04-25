@@ -8,12 +8,12 @@
   \/_____/   \/_/   \/____/   \/_/\/_/   \/_/ \/_/   \/_/     \/_/\/_/     \/_/   \/_/\/_/ 
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Mobile+Engineer+%F0%9F%93%B1;Flutter+Enthusiast+%F0%9F%9A%80;Full-Stack+Developer+%F0%9F%94%A5;Building+cool+stuff+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6B2B&center=true&vCenter=true&width=600&lines=Mobile+Engineer+%F0%9F%93%B1;Flutter+Enthusiast+%F0%9F%9A%80;Full-Stack+Developer+%F0%9F%94%A5;Building+cool+stuff+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=zidhaanfa&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/zidhaanfa)
-[![GitHub followers](https://img.shields.io/github/followers/zidhaanfa?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/zidhaanfa)
+[![Profile Views](https://komarev.com/ghpvc/?username=zidhaanfa&color=FF6B2B&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/zidhaanfa)
+[![GitHub followers](https://img.shields.io/github/followers/zidhaanfa?style=for-the-badge&color=FF6B2B&labelColor=0d1117&label=FOLLOWERS)](https://github.com/zidhaanfa)
 
 </div>
 
@@ -34,7 +34,8 @@ mission: Building impactful apps one commit at a time
 
 ```bash
 > 📱 Flutter & Dart — my main weapon
-> 🌐 Full-Stack (Node.js, Strapi, AdonisJS, NextJS)
+> 🌐 Full-Stack (Node.js, Strapi, AdonisJS, NextJS, Go)
+> 🤖 Edge AI (Openclaw, OCR, etc)
 > 🎨 UI/UX with Figma
 > ☁️  Cloud: Firebase & GCP
 > 🐳 DevOps: Docker & Kubernetes
@@ -94,12 +95,12 @@ mission: Building impactful apps one commit at a time
 ## `$ git log --stats`
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zidhaanfa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidhaanfa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zidhaanfa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF6B2B&icon_color=FF6B2B&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidhaanfa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6B2B&text_color=ffffff"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zidhaanfa&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zidhaanfa&theme=tokyonight&hide_border=true&background=0d1117&stroke=FF6B2B&ring=FF6B2B&fire=ff6b6b&currStreakLabel=FF6B2B" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
@@ -111,7 +112,7 @@ mission: Building impactful apps one commit at a time
 ## `$ cat contribution-graph.svg`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zidhaanfa&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zidhaanfa&bg_color=0d1117&color=FF6B2B&line=FF6B2B&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -120,9 +121,9 @@ mission: Building impactful apps one commit at a time
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-zidanfath.com-00d9ff?style=for-the-badge&logoColor=white)](https://zidanfath.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-zidanfath.com-FF6B2B?style=for-the-badge&logoColor=white)](https://zidanfath.com)
 [![Blog](https://img.shields.io/badge/✍️_Blog-recehkoding.com-ff6b6b?style=for-the-badge)](https://recehkoding.com/blogs)
-[![Email](https://img.shields.io/badge/📧_Email-zidan@zidanfath.com-00d9ff?style=for-the-badge)](mailto:zidan@zidanfath.com)
+[![Email](https://img.shields.io/badge/📧_Email-zidan@zidanfath.com-FF6B2B?style=for-the-badge)](mailto:zidan@zidanfath.com)
 
 <br/>
 
