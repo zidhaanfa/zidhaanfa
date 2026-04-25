@@ -122,8 +122,8 @@ mission: Building impactful apps one commit at a time
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-zidanfath.com-FF6B2B?style=for-the-badge&logoColor=white)](https://zidanfath.com)
-[![Blog](https://img.shields.io/badge/✍️_Blog-recehkoding.com-ff6b6b?style=for-the-badge)](https://recehkoding.com/blogs)
-[![Email](https://img.shields.io/badge/📧_Email-zidan@zidanfath.com-FF6B2B?style=for-the-badge)](mailto:zidan@zidanfath.com)
+[![IT Consultant](https://img.shields.io/badge/✍️_Consultant-rekanara.id-ff6b6b?style=for-the-badge)](https://rekanara.id)
+[![Email](https://img.shields.io/badge/📧_Email-zidan@zidanfath.com-FF6B2B?style=for-the-badge)](mailto:zidanfath.code@gmail.com)
 
 <br/>
 
@@ -132,8 +132,8 @@ mission: Building impactful apps one commit at a time
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/zidanfath)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zidanfath)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/zidanfath)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/idhaaaaan_)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/zidanfath)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zidanfath.code)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/m.zidanfath)
 
 </div>
 
