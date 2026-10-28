@@ -1,172 +1,104 @@
 <div align="center">
 
-```
- ______     __     _____     ______     __   __     ______   ______     ______   __  __    
-/\___  \   /\ \   /\  __-.  /\  __ \   /\ "-.\ \   /\  ___\ /\  __ \   /\__  _\ /\ \_\ \   
-\/_/  /__  \ \ \  \ \ \/\ \ \ \  __ \  \ \ \-.  \  \ \  __\ \ \  __ \  \/_/\ \/ \ \  __ \  
-  /\_____\  \ \_\  \ \____-  \ \_\ \_\  \ \_\\"\_\  \ \_\    \ \_\ \_\    \ \_\  \ \_\ \_\ 
-  \/_____/   \/_/   \/____/   \/_/\/_/   \/_/ \/_/   \/_/     \/_/\/_/     \/_/   \/_/\/_/ 
-```
+# Hi, I'm Zidanfath 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6B2B&center=true&vCenter=true&width=600&lines=Mobile+Engineer+%F0%9F%93%B1;Flutter+Enthusiast+%F0%9F%9A%80;Full-Stack+Developer+%F0%9F%94%A5;Building+cool+stuff+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
+### Mobile Engineer · Flutter Specialist · Full-Stack Developer
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=FF6B2B&center=true&vCenter=true&width=520&lines=Building+cross-platform+apps+with+Flutter;Full-stack+with+Node.js%2C+Go+%26+Next.js;Exploring+on-device+%2F+Edge+AI" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=zidhaanfa&color=FF6B2B&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/zidhaanfa)
-[![GitHub followers](https://img.shields.io/github/followers/zidhaanfa?style=for-the-badge&color=FF6B2B&labelColor=0d1117&label=FOLLOWERS)](https://github.com/zidhaanfa)
+<p>
+  <a href="https://zidanfath.com"><img src="https://img.shields.io/badge/Portfolio-zidanfath.com-FF6B2B?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/zidanfath"><img src="https://img.shields.io/badge/LinkedIn-zidanfath-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:zidanfath.code@gmail.com"><img src="https://img.shields.io/badge/Email-zidanfath.code%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=zidhaanfa&color=FF6B2B&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## About Me
 
-## `$ whoami`
+I'm a **Mobile Engineer from Indonesia 🇮🇩** focused on building fast, reliable, and well-crafted cross-platform apps with **Flutter**. Beyond mobile, I work across the stack — designing APIs, shipping web apps, and deploying them to the cloud — so I can take a product from idea to production end to end.
 
-```yaml
-name: Zidanfath
-location: Indonesia 🇮🇩
-role: Mobile Engineer @ PT Varnion Technology Semesta
-mission: Building impactful apps one commit at a time
-```
-
-## `$ cat interests.txt`
-
-```bash
-> 📱 Flutter & Dart — my main weapon
-> 🌐 Full-Stack (Node.js, Strapi, AdonisJS, NextJS, Go)
-> 🤖 Edge AI (Openclaw, OCR, etc)
-> 🎨 UI/UX with Figma
-> ☁️  Cloud: Firebase & GCP
-> 🐳 DevOps: Docker & Kubernetes
-> 🤝 Open to freelance collab → zidanfath.com
-```
-
-<br clear="right"/>
+- 💼 Mobile Engineer at **PT Varnion Technology Semesta**
+- 🧪 Lead Engineer at **[Rekanara Digital Labs](https://github.com/Rekanara-Digital-Labs)** — handling all projects end to end
+- 🤖 Currently exploring **Edge AI** — on-device OCR and OpenClaw
+- 🎨 Comfortable turning Figma designs into polished, production-ready UI
+- 🤝 Open to **freelance & collaboration** — reach out via [zidanfath.com](https://zidanfath.com)
 
 ---
 
-## `$ cat tech-stack.json`
+## Rekanara Digital Labs
+
+I lead engineering at **Rekanara Digital Labs**, where I'm responsible for every project from architecture and development to deployment and maintenance. Client and internal work lives in the organization, while my Rekanara-related personal work is on a dedicated account.
+
+<p>
+  <a href="https://github.com/Rekanara-Digital-Labs"><img src="https://img.shields.io/badge/Organization-Rekanara--Digital--Labs-181717?style=flat-square&logo=github&logoColor=white" alt="Rekanara Digital Labs Organization"/></a>
+  <a href="https://github.com/rekanara"><img src="https://img.shields.io/badge/GitHub-rekanara-181717?style=flat-square&logo=github&logoColor=white" alt="Rekanara GitHub"/></a>
+  <a href="https://rekanara.id"><img src="https://img.shields.io/badge/Website-rekanara.id-FF6B2B?style=flat-square&logo=googlechrome&logoColor=white" alt="Rekanara Website"/></a>
+</p>
+
+---
+
+## Tech Stack
+
+| Area | Tools |
+|---|---|
+| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,java,swift" height="36"/><br/><sub>Flutter · React Native · Native Android (Kotlin/Java) · Native iOS (Swift)</sub> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,astro,vite,laravel,ts,tailwind" height="36"/><br/><sub>React · Next.js · Astro · Vite · Laravel (Blade/Inertia) · TypeScript · Tailwind CSS</sub> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nestjs,go,nodejs,python,laravel,php,graphql" height="36"/><br/><sub>NestJS · Go (Fiber) · AdonisJS · Python · Laravel · REST & GraphQL</sub> |
+| **Database** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,prisma" height="36"/><br/><sub>PostgreSQL · MySQL / MariaDB · MongoDB · Redis · SQLite · Prisma</sub> |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=firebase,gcp,cloudflare,docker,kubernetes,nginx,githubactions,linux" height="36"/><br/><sub>Firebase · Google Cloud · Cloudflare · Docker · Kubernetes · Nginx · CI/CD</sub> |
+| **AI & IoT** | <img src="https://skillicons.dev/icons?i=tensorflow,opencv,arduino" height="36"/><br/><sub>Edge AI · On-device OCR · OpenClaw · Arduino</sub> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,blender" height="36"/><br/><sub>Git · GitHub · Figma · Postman · VS Code · Blender</sub> |
+
+---
+
+<!--
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Project Name](https://github.com/zidhaanfa/repo) | One-line description of what it does and the impact | Flutter · Firebase |
+| [Project Name](https://github.com/zidhaanfa/repo) | One-line description of what it does and the impact | Next.js · Go |
+| [Project Name](https://github.com/zidhaanfa/repo) | One-line description of what it does and the impact | Node.js · PostgreSQL |
+
+Uncomment this section and fill in 3–4 of your best projects.
+-->
+
+## GitHub Stats
 
 <div align="center">
-
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-
-### 🌐 Frontend & Backend
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zidhaanfa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF6B2B&icon_color=FF6B2B&text_color=c9d1d9" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidhaanfa&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF6B2B&text_color=c9d1d9" alt="Top Languages"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zidhaanfa&hide_border=true&background=0d1117&stroke=30363d&ring=FF6B2B&fire=FF6B2B&currStreakLabel=FF6B2B&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## `$ git log --stats`
+## Elsewhere
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zidhaanfa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF6B2B&icon_color=FF6B2B&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidhaanfa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6B2B&text_color=ffffff"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zidhaanfa&theme=tokyonight&hide_border=true&background=0d1117&stroke=FF6B2B&ring=FF6B2B&fire=ff6b6b&currStreakLabel=FF6B2B" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zidhaanfa&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophies"/>
-</div>
-
----
-
-## `$ cat contribution-graph.svg`
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zidhaanfa&bg_color=0d1117&color=FF6B2B&line=FF6B2B&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
-## `$ curl -s links.zidanfath.com`
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-zidanfath.com-FF6B2B?style=for-the-badge&logoColor=white)](https://zidanfath.com)
-[![IT Consultant](https://img.shields.io/badge/✍️_Consultant-rekanara.id-ff6b6b?style=for-the-badge)](https://rekanara.id)
-[![Email](https://img.shields.io/badge/📧_Email-zidan@zidanfath.com-FF6B2B?style=for-the-badge)](mailto:zidanfath.code@gmail.com)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zidanfath)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zidanfath)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/zidanfath)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zidanfath)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/zidanfath)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zidanfath.code)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/m.zidanfath)
-
-</div>
-
----
-
-## `$ cat fun-fact.sh`
-
-```bash
-#!/bin/bash
-echo "⚡ Fun fact: Serious in coding, funny in code comments! 😄"
-echo "💬 Ask me anything about Flutter — I don't bite"
-echo "☕ Powered by coffee and ctrl+z"
-echo ""
-echo "# Current vibe:"
-echo "while alive; do"
-echo "  eat(); sleep(); code(); repeat();"
-echo "done"
-```
+<p>
+  <a href="https://x.com/zidanfath"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://dev.to/zidanfath"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
+  <a href="https://medium.com/@zidanfath"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://www.youtube.com/c/zidanfath"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://instagram.com/zidanfath.code"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.buymeacoffee.com/zidanfath"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee"/></a>
+</p>
 
 ---
 
 <div align="center">
 
-### Support my work ☕
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zidhaanfa/zidhaanfa/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zidhaanfa/zidhaanfa/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/zidhaanfa/zidhaanfa/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/zidanfath)
-
-<br/>
-
-```
-// Thanks for visiting! Star a repo if you like what you see 🌟
-```
-
-![Snake animation](https://github.com/zidhaanfa/zidhaanfa/blob/output/github-contribution-grid-snake-dark.svg)
+<sub>Thanks for stopping by — feel free to ⭐ any repo you find useful.</sub>
 
 </div>
