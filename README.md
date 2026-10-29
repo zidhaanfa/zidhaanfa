@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Zidanfath 👋
+# Hi, I'm Zidan 👋
 
-### Mobile Engineer · Flutter Specialist · Full-Stack Developer
+### Software Engineer · Full-Stack, Mobile & AI
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=FF6B2B&center=true&vCenter=true&width=520&lines=Building+cross-platform+apps+with+Flutter;Full-stack+with+Node.js%2C+Go+%26+Next.js;Exploring+on-device+%2F+Edge+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=FF6B2B&center=true&vCenter=true&width=560&lines=System+Engineer+%40+Varnion;Lead+Engineer+%40+Rekanara+Digital+Labs;Edge+AI+%C2%B7+Multi-Agent+Systems+%C2%B7+Flutter;4%2B+years+shipping+web%2C+mobile+%26+backend" alt="Typing SVG" />
 
 <p>
   <a href="https://zidanfath.com"><img src="https://img.shields.io/badge/Portfolio-zidanfath.com-FF6B2B?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
@@ -19,13 +19,13 @@
 
 ## About Me
 
-I'm a **Mobile Engineer from Indonesia 🇮🇩** focused on building fast, reliable, and well-crafted cross-platform apps with **Flutter**. Beyond mobile, I work across the stack — designing APIs, shipping web apps, and deploying them to the cloud — so I can take a product from idea to production end to end.
+I'm **Muhamad Zidan Fathoni**, a Software Engineer based in **South Jakarta, Indonesia 🇮🇩** with **4+ years** of experience building web, mobile, and backend systems for the ISP, banking, HR, and ticketing industries. I enjoy owning products end to end, from requirements and architecture to deployment and maintenance, and I've shipped multiple production apps on Google Play.
 
-- 💼 Mobile Engineer at **PT Varnion Technology Semesta**
-- 🧪 Lead Engineer at **[Rekanara Digital Labs](https://github.com/Rekanara-Digital-Labs)** — handling all projects end to end
-- 🤖 Currently exploring **Edge AI** — on-device OCR and OpenClaw
-- 🎨 Comfortable turning Figma designs into polished, production-ready UI
-- 🤝 Open to **freelance & collaboration** — reach out via [zidanfath.com](https://zidanfath.com)
+- 💼 **System Engineer** at **PT Varnion Technology Semesta**, building multi-tenant platforms, LLM-powered services, and multi-agent automation
+- 🧪 **Lead Engineer** at **[Rekanara Digital Labs](https://github.com/Rekanara-Digital-Labs)**, handling all projects end to end
+- 🤖 Working on **Edge AI**: document OCR on NVIDIA Jetson, WiFi-based sensing on ESP32
+- 🏅 2× copyright registrations (HAKI) and 3rd place at Krenova Banyumas 2022
+- 🤝 Open to **freelance & collaboration**, reach out via [zidanfath.com](https://zidanfath.com)
 
 ---
 
@@ -45,27 +45,15 @@ I lead engineering at **Rekanara Digital Labs**, where I'm responsible for every
 
 | Area | Tools |
 |---|---|
-| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,java,swift" height="36"/><br/><sub>Flutter · React Native · Native Android (Kotlin/Java) · Native iOS (Swift)</sub> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,astro,vite,laravel,ts,tailwind" height="36"/><br/><sub>React · Next.js · Astro · Vite · Laravel (Blade/Inertia) · TypeScript · Tailwind CSS</sub> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nestjs,go,nodejs,python,laravel,php,graphql" height="36"/><br/><sub>NestJS · Go (Fiber) · AdonisJS · Python · Laravel · REST & GraphQL</sub> |
-| **Database** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,prisma" height="36"/><br/><sub>PostgreSQL · MySQL / MariaDB · MongoDB · Redis · SQLite · Prisma</sub> |
-| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=firebase,gcp,cloudflare,docker,kubernetes,nginx,githubactions,linux" height="36"/><br/><sub>Firebase · Google Cloud · Cloudflare · Docker · Kubernetes · Nginx · CI/CD</sub> |
-| **AI & IoT** | <img src="https://skillicons.dev/icons?i=tensorflow,opencv,arduino" height="36"/><br/><sub>Edge AI · On-device OCR · OpenClaw · Arduino</sub> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,blender" height="36"/><br/><sub>Git · GitHub · Figma · Postman · VS Code · Blender</sub> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,php,python,dart,go" height="36"/><br/><sub>TypeScript · JavaScript · PHP · Python · Dart · Go</sub> |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,react,kotlin,swift" height="36"/><br/><sub>Flutter · React Native · Native Android (Kotlin) · Native iOS (Swift)</sub> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,vue,astro,vite,tailwind" height="36"/><br/><sub>React · Next.js · Vue.js · Astro · Vite · Tailwind CSS</sub> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nestjs,express,laravel,go,python" height="36"/><br/><sub>NestJS · Express.js · Laravel · Go · AdonisJS · Strapi · Odoo · REST · WebSockets</sub> |
+| **AI & Edge** | <img src="https://skillicons.dev/icons?i=pytorch,opencv,arduino" height="36"/><br/><sub>YOLOv8 · Ollama · LLM Integration · Multi-Agent Systems · NVIDIA Jetson · ESP32 (ESP-IDF) · WASM</sub> |
+| **Data & Infra** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,nginx,linux" height="36"/><br/><sub>PostgreSQL · PgBouncer · MySQL · MongoDB · Redis · Docker · Nginx · Zabbix</sub> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" height="36"/><br/><sub>Git · GitHub · Jira · Figma · Postman · VS Code</sub> |
 
 ---
-
-<!--
-## Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [Project Name](https://github.com/zidhaanfa/repo) | One-line description of what it does and the impact | Flutter · Firebase |
-| [Project Name](https://github.com/zidhaanfa/repo) | One-line description of what it does and the impact | Next.js · Go |
-| [Project Name](https://github.com/zidhaanfa/repo) | One-line description of what it does and the impact | Node.js · PostgreSQL |
-
-Uncomment this section and fill in 3–4 of your best projects.
--->
 
 ## GitHub Stats
 
